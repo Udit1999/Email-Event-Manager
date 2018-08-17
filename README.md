@@ -1,9 +1,13 @@
 # Email-Event-Manager
 
 Overview:
+
 1.This program is developed to manage the events that has been mentioned in your mails(gmail).
+
 2.You can classify your mails manually (Important or Not so Important).
+
 3.The recognised events will get added to calender.
+
 4.You can also select the reminder time based upon your schedule.
 
 Before running the main.py:
